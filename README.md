@@ -50,7 +50,9 @@
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat&logo=hackthebox&logoColor=9FEF00)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=flat&logo=kalilinux&logoColor=557C94)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)## 📊 GitHub Stats
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
 
