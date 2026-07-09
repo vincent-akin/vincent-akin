@@ -12,7 +12,7 @@
 * 💡 **Interested in:** Backend Engineering & API Architecture
 * 💬 **Ask me about:** JavaScript, TypeScript, Backend Architecture, Python (for Data Analysis)
 * 📫 **Reach me at:**
-**[vinciakins@gmail.com](mailto:vinciakins@gmail.com)** **[vincentakinsoyinu@gmail.com](mailto:vincentakinsoyinu@gmail.com)**
+**[vinciakins@gmail.com](mailto:vinciakins@gmail.com)** || **[vincentakinsoyinu@gmail.com](mailto:vincentakinsoyinu@gmail.com)**
 * ⚡ **Fun fact:** I am always ready to learn.
 
 ---
